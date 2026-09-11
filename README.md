@@ -49,6 +49,8 @@ I'm a Tech Lead and Software Architect with 10+ years of experience designing, b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![DevSpace](https://img.shields.io/badge/DevSpace-0BC5E6?style=flat-square&logo=devspace&logoColor=white)
+![Okteto](https://img.shields.io/badge/Okteto-2907AE?style=flat-square&logo=okteto&logoColor=white)
 
 **CI/CD & GitOps**
 
