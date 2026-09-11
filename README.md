@@ -46,6 +46,7 @@ I'm a Tech Lead and Software Architect with 10+ years of experience designing, b
 ![Informix](https://img.shields.io/badge/Informix-052FAD?style=flat-square)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Pentaho PDI](https://img.shields.io/badge/Pentaho%20PDI-CE0058?style=flat-square)
 
 **Cloud & Infra**
 
